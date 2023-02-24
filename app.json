@@ -66,12 +66,7 @@
       "value": "False",
       "required": false
     }
-  },
-  "addons": [{
-    "plan": "eco",
-    "options": {
-      "version": "12"
-    }
+
   }],
   "buildpacks": [{
     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
